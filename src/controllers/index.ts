@@ -1,0 +1,1 @@
+export { getAllProducts, getProductById } from './products.controller';
