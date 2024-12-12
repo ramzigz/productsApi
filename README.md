@@ -39,8 +39,8 @@ To run this project, you need to have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-repo-name/product-service-api.git
-   cd product-service-api
+   git clone [https://github.com/ramzigz/productsApi.git](https://github.com/ramzigz/productsApi.git)
+   cd productsApi
    ```
 
 2. Install the required dependencies:
